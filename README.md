@@ -6,7 +6,7 @@ Maria Clara C Soares;
 
 Pedro Mota;
 
-Miguel Procopio;
+Miguel Procópio;
 
 Pedro Macedo;
 
