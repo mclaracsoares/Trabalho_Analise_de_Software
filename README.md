@@ -16,7 +16,6 @@ Lucas Gurgel;
 
 Gustavo Porto;
 
-## Definição do Produto
 Lucas Gurgel;
 
 Luís Gustavo Sampaio;
@@ -24,3 +23,5 @@ Luís Gustavo Sampaio;
 Marco Antonio;
 
 Thiago Araujo.
+
+## Definição do Produto
