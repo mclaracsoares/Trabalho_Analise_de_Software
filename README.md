@@ -45,4 +45,7 @@ Nosso produto possui funcionalidades de gestão de alunos, professores, turmas, 
 
 ## Screencast do protótipo
 
-https://drive.google.com/drive/my-drive
+![image](https://github.com/user-attachments/assets/fc7a8dce-d61f-49eb-ad9a-78da125190f1)
+
+
+[https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1rd2xOvIWDFTQxLXFHNbBwNbuS8AV-FF9/view?usp=sharing)
