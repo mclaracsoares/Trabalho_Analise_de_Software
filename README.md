@@ -42,6 +42,9 @@ Nosso produto possui funcionalidades de gestão de alunos, professores, turmas, 
 
 ![image](https://github.com/user-attachments/assets/5143f6e7-8c99-4891-afeb-7328f34bd507)
 
+## Acesso ao protótipo
+
+https://www.canva.com/design/DAGN2cocGyk/ZpRpbpYGyQWq_C7VZfnUMw/edit?utm_content=DAGN2cocGyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Screencast do protótipo
 
