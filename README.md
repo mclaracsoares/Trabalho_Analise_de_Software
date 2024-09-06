@@ -52,6 +52,6 @@ https://www.canva.com/design/DAGN2cocGyk/ZpRpbpYGyQWq_C7VZfnUMw/edit?utm_content
 
 ![image](https://github.com/user-attachments/assets/fc7a8dce-d61f-49eb-ad9a-78da125190f1)
 
-## Link do Jira
+## Acesso ao Jira
 https://pedromota.atlassian.net/jira/software/projects/SCRUM/boards/1
 
