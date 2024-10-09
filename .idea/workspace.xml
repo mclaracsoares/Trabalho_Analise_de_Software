@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b537cc8-01fa-4afa-8537-907a06de94bc" name="Changes" comment="primeiro commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/configuration/HelloWorldConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/service/HelloWorldService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/main/resources/templates/teste.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestao-escolar/src/test/java/com/projeto/gestao_escolar/GestaoEscolarApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.SdgeApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;testes&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/IdeaProjects/SDGE&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SdgeApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pedro/IdeaProjects/SDGE"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
