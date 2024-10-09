@@ -5,26 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b537cc8-01fa-4afa-8537-907a06de94bc" name="Changes" comment="primeiro commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Trabalho_Analise_de_Software.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/configuration/HelloWorldConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/controller/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/service/HelloWorldService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/resources/templates/teste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/test/java/com/projeto/gestao_escolar/GestaoEscolarApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SdgeApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "testes",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/pedro/IdeaProjects/SDGE"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SdgeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;testes&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/IdeaProjects/SDGE&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +68,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728480862253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primeiro commit">
+      <option name="closed" value="true" />
+      <created>1728481516735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728481516735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
