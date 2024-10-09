@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b537cc8-01fa-4afa-8537-907a06de94bc" name="Changes" comment="" />
+    <list default="true" id="6b537cc8-01fa-4afa-8537-907a06de94bc" name="Changes" comment="primeiro commit">
+      <change afterPath="$PROJECT_DIR$/.idea/Trabalho_Analise_de_Software.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/configuration/HelloWorldConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/java/com/projeto/gestao_escolar/service/HelloWorldService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/main/resources/templates/teste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestao-escolar/src/test/java/com/projeto/gestao_escolar/GestaoEscolarApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +45,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2nCbPLS4cZVn2U9GwLnmljAzAWy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,9 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SdgeApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "testes",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/pedro/IdeaProjects/SDGE"
   }
@@ -43,6 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
         <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
@@ -56,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728479980882</updated>
     </task>
+    <task id="LOCAL-00001" summary="primeiro commit">
+      <option name="closed" value="true" />
+      <created>1728480862253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728480862253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
   </component>
 </project>
